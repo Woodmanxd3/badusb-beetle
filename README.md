@@ -138,7 +138,7 @@ Replace `/dev/ttyACM0` with the correct port detected earlier.
 ## **🚀 Executing the Payload**
 1. **Plug the BadUSB into a computer** running Windows.
 2. The behavior depends on the payload:
-   - The **payload example** will launch and type "Payload Succeeded!".
+3. The **payload example** will launch and type "Payload Succeeded!".
 ---
 
 ## **🎯 Troubleshooting**
