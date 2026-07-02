@@ -1,4 +1,4 @@
-# **HiLetGo BadUSB Beetle - Keystroke Injection - Multi-OS Support**
+# **HiLetGo BadUSB Beetle - Keystroke Injection**
 
 ## **Overview**
 This project turns the **HiLetgo BadUSB Beetle (ATMEGA32U4)** into a **multi-OS keystroke injection tool** that can automate commands across **Windows, Linux, and macOS**. The included **payload** is just an example of what’s possible. It will just open up notepad and types "Payload Succeeded!".
